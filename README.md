@@ -1,5 +1,5 @@
 <h2>Información General de la Empresa</h2>
-<p><a href="https://1win1.mxt/">1win </a> fue fundada en 2018 y es operada por Firstbet N.V., actualmente ofrece sus servicios en más de 50 países, incluyendo México. Es seguro y legal utilizar los servicios del sitio web, ya que 1win no infringe las leyes locales y posee una licencia de juego emitida por Curazao. Toda la información básica sobre 1win se puede ver en la siguiente tabla:</p>
+<p><a href="https://1win1.mx/">1win </a> fue fundada en 2018 y es operada por Firstbet N.V., actualmente ofrece sus servicios en más de 50 países, incluyendo México. Es seguro y legal utilizar los servicios del sitio web, ya que 1win no infringe las leyes locales y posee una licencia de juego emitida por Curazao. Toda la información básica sobre 1win se puede ver en la siguiente tabla:</p>
 
 <table>
   <tr>
